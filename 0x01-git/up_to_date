@@ -1,1 +1,1 @@
-The git command lines used for this project are:\ngit commit, git add, git config --global user.email, git config --global user.name, git push, git push upstream, git checkout master, git checkout branch_name, git clone,
+The git command lines used for this project are:\ngit commit, git add, git config --global user.email, git config --global user.name, git push, git push upstream, git checkout master, git checkout branch_name, git clone, git pull
